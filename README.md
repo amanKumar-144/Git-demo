@@ -1,1 +1,4 @@
-# Git-demo
+# AmanKumar
+
+IIIT Bangalore
+CSE
